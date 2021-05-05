@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lucy/static/css/main.9e46b7c0.chunk.css",
-    "main.js": "/lucy/static/js/main.59189915.chunk.js",
-    "main.js.map": "/lucy/static/js/main.59189915.chunk.js.map",
+    "main.js": "/lucy/static/js/main.0022bfcc.chunk.js",
+    "main.js.map": "/lucy/static/js/main.0022bfcc.chunk.js.map",
     "runtime-main.js": "/lucy/static/js/runtime-main.d26ea2f9.js",
     "runtime-main.js.map": "/lucy/static/js/runtime-main.d26ea2f9.js.map",
     "static/js/2.56f69dd1.chunk.js": "/lucy/static/js/2.56f69dd1.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d26ea2f9.js",
     "static/js/2.56f69dd1.chunk.js",
     "static/css/main.9e46b7c0.chunk.css",
-    "static/js/main.59189915.chunk.js"
+    "static/js/main.0022bfcc.chunk.js"
   ]
 }
