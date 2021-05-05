@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lucy/static/css/main.9e46b7c0.chunk.css",
+    "main.js": "/lucy/static/js/main.1cd26fd7.chunk.js",
+    "main.js.map": "/lucy/static/js/main.1cd26fd7.chunk.js.map",
+    "runtime-main.js": "/lucy/static/js/runtime-main.d26ea2f9.js",
+    "runtime-main.js.map": "/lucy/static/js/runtime-main.d26ea2f9.js.map",
+    "static/js/2.56f69dd1.chunk.js": "/lucy/static/js/2.56f69dd1.chunk.js",
+    "static/js/2.56f69dd1.chunk.js.map": "/lucy/static/js/2.56f69dd1.chunk.js.map",
+    "index.html": "/lucy/index.html",
+    "static/css/main.9e46b7c0.chunk.css.map": "/lucy/static/css/main.9e46b7c0.chunk.css.map",
+    "static/js/2.56f69dd1.chunk.js.LICENSE.txt": "/lucy/static/js/2.56f69dd1.chunk.js.LICENSE.txt",
+    "static/media/svg-5.0cdbcde2.svg": "/lucy/static/media/svg-5.0cdbcde2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d26ea2f9.js",
+    "static/js/2.56f69dd1.chunk.js",
+    "static/css/main.9e46b7c0.chunk.css",
+    "static/js/main.1cd26fd7.chunk.js"
+  ]
+}
