@@ -82,8 +82,9 @@ export const Heading = styled.h1`
   line-height: 1.1;
   font-weight: 600;
   color: #f7f8fa;
-  @media screen and (max-width: 375px) {
-    font-size: 30px;
+
+  @media screen and (max-width: 414px) {
+    font-size: 38px;
   }
 `;
 
