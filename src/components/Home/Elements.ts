@@ -26,11 +26,10 @@ export const Button = styled.a`
 
 export const Container = styled.div`
   color: #fff;
-  padding: 160px 0;
   background: #3c40c6;
-  height: 100vh;
   display: flex;
   align-items: center;
+  height: 100vh;
 `;
 
 export const Row = styled.div`
@@ -56,10 +55,6 @@ export const TextWrapper = styled.div`
   max-width: 540px;
   padding-top: 0;
   padding-bottom: 60px;
-
-  @media screen and (max-width: 768px) {
-    padding-bottom: 65px;
-  }
 `;
 
 export const ImgWrapper = styled.div``;
@@ -77,8 +72,7 @@ export const Img = styled.img`
   padding-right: 0;
   border: 0;
   max-width: 100%;
-  /* vertical-align: middle;
-  display: inline-block; */
+
   max-height: 500px;
 `;
 
@@ -88,6 +82,9 @@ export const Heading = styled.h1`
   line-height: 1.1;
   font-weight: 600;
   color: #f7f8fa;
+  @media screen and (max-width: 375px) {
+    font-size: 30px;
+  }
 `;
 
 export const Subtitle = styled.p`
